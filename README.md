@@ -45,7 +45,7 @@ This repository contains the official Privacy Policy for the inPHR application a
 - Basic profile information (name, email)
 
 ### Purpose of Data Use
-- To provide health insights and personalized wellness reports
+- To visualize health data in charts
 - To improve app performance and user experience
 
 ### Data Sharing
@@ -64,4 +64,4 @@ For any questions regarding this Privacy Policy:
 
 ## Full Privacy Policy
 
-- [📄 한국어 전체 버전](https://www.inphrcare.com/)
+- [📄 회사 홈페이지 < 하단 개인정보처리방침](https://www.inphrcare.com/)
