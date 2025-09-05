@@ -64,4 +64,4 @@ For any questions regarding this Privacy Policy:
 
 ## Full Privacy Policy
 
-- [📄 회사 홈페이지 < 하단 개인정보처리방침](https://www.inphrcare.com/)
+- [📄 회사 홈페이지 < 하단 개인정보처리방침](https://www.inphrcare.com?modal=privacy)
